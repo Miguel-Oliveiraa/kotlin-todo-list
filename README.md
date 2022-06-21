@@ -4,13 +4,10 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
-
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Write down your day todos with a simple and direct android app built with Kotlin. 📱🗒️
 
 ### Ajustes e melhorias
 
@@ -52,10 +49,6 @@ To contribute to <kotlin-todo-list-app>, follow theses steps:
 4. Send to the original branch: `git push origin <kotlin-todo-list-app> / <local>`
 5. Create a new pull request.
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Alternatively, see the GitHub documentation at [Creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#kotlin-todo-list-app)<br>
+[⬆ Back to top](#kotlin-todo-list-app)<br>
