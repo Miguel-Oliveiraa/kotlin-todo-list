@@ -6,8 +6,6 @@
 
 > Write down your day todos with a simple and direct android app built with Kotlin. 📱🗒️
 
-### Ajustes e melhorias
-
 ## 💻 Prerequisites
 
 Before you start, have sure you have:
